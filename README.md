@@ -50,5 +50,5 @@ My name is Letícia Estoque, I'm 20 years old and I'm passionate about the area 
 
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
-<b>"Você tem que agir e estar disposto a fracassar... se você tem medo de fracassar, não irá muito longe"</b>
+<b>"Você tem que agir e estar disposto a fracassar... se você tem medo de fracassar, não irá muito longe" - Steve Jobs</b>
 
