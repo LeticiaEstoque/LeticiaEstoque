@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Estoque;I'm+20+years+old;I'm+a+Back-end+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=LeticiaEstoque&color=ff69b4"><br>
 
 <div align="center">
-  <img src="https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/dbed9442-b867-4af6-9c90-4d0ee4c37d7a" width="600px" /> 
+  <a href="https://github.com/andreinaoliveira">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
 </div>
+<br>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaEstoque&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Estoque github stats" />   
