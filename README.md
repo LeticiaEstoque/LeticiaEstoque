@@ -1,8 +1,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LeticiaEstoque&color=ff69b4"><br>
 
 <div align="center">
-  <img src= "https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/b2d9b4de-cb17-4e3d-9990-25a1488a5c34" width="500px" />
+  <img src= "https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/b2d9b4de-cb17-4e3d-9990-25a1488a5c34" width="700px" />
 </div>
+
+<div align="left">
+  <img src= "https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/974126a1-499d-4766-808f-99144b8b458b" width="350px" />
+</div>
+
 
 
 <div align="center">
