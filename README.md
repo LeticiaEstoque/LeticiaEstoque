@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=140&section=header"/>
 
-<div align="center"> 
-<img src="" width="700px" />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Estoque;I'm+20+years+old;I'm+a+Back-end+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaEstoque&bg_color=ffffff&color=4c8a9e&line=914c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -15,8 +11,8 @@
 
 
   ### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
 <div align="center"> 
 <a href="https://instagram.com/leticiaestoquee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
