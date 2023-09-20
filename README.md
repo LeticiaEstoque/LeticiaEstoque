@@ -1,11 +1,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=LeticiaEstoque&color=ff69b4"><br>
 
 <div align="center">
-  <a href="https://github.com/andreinaoliveira">
-    <img align="center" src="Welcome.png" width="500">
-  </a>
+  <img src= "https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/b2d9b4de-cb17-4e3d-9990-25a1488a5c34" width="500px" />
 </div>
-<br>
+
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaEstoque&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Estoque github stats" />   
