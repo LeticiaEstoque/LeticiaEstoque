@@ -20,26 +20,24 @@
 
 
 ### ⭐️ SOBRE MIM:
-Meu nome é Letícia Estoque, tenho 20 anos e sou apaixonada pela área de desenvolvimento Web, estou cursando Análise e Desenvolvimento de Sistemas na <b>Universidade de Marília (UNIMAR EAD)</b> e 
-tenho interesse em ingressar na profissão de desenvolvedor. Atualmente meu foco são nas linguagens Java e Python!
+My name is Letícia Estoque, I'm 20 years old and I'm passionate about the area of ​​Web development, I'm studying Systems Analysis and Development at the <b>University of Marília (UNIMAR EAD) </b> and I'm interested in entering the developer profession. Currently my focus is on Java and Python languages!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### ⭐️ SOFT SKILLS:                    
-* Comunicação                          
-* Flexibilidade                    
-* Trabalho em grupo
-* Liderança
+* Communication                          
+* Flexibility                   
+* Group work
+* Leadership
+* proactivity
+* creativity
 
 ### ⭐ IDIOMAS:
-* Inglês: intermediário/avançado
-* Português: lingua nativa
+* English: intermediate/advanced
+* Portuguese: native language
 
 ### ⭐️ MAIN SKILLS:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="28x"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaEstoque&bg_color=ffffff&color=4c8a9e&line=914c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -50,6 +48,7 @@ tenho interesse em ingressar na profissão de desenvolvedor. Atualmente meu foco
 
  
 
-
+<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+<b>"Você tem que agir e estar disposto a fracassar... se você tem medo de fracassar, não irá muito longe"</b>
 
