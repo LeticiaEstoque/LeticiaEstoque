@@ -1,19 +1,18 @@
-
-<div align="center">
-  <img src="https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/df9d286c-ea90-4846-ac4d-46c77aafd72d" width="500px" />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Estoque;I'm+20+years+old;I'm+a+Back-end+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/dbed9442-b867-4af6-9c90-4d0ee4c37d7a" width="600px" /> 
+</div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaEstoque&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Estoque github stats" /> 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaEstoque&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=C71585&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Estoque github stats" />   
   <img width="45%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaEstoque&layout=compact&hide_border=true&title_color=DA70D6&text_color=C71585&bg_color=0d1117" />
+</div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeticiaEstoque&bg_color=ffffff&color=4c8a9e&line=914c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-  ### Main skills:
+### Main skills:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
