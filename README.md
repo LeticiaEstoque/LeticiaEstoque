@@ -1,6 +1,6 @@
 
-<div align="rigth">
-  <img src="https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/bd455efb-5e23-45da-9d64-c1ffd17f3eca" width="500px" />
+<div align="center">
+  <img src="https://github.com/LeticiaEstoque/LeticiaEstoque/assets/145411086/df9d286c-ea90-4846-ac4d-46c77aafd72d" width="500px" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Letícia+Estoque;I'm+20+years+old;I'm+a+Back-end+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
